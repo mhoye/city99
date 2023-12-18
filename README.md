@@ -6,11 +6,8 @@ City99 is a console font for Linux created as an homage to the stylized
 but incomprehensible text used throughout the "Walled City 99" environment
 of [Stray](https://stray.game).
 
-City99 development began using one of  
-[fcambus' delightful "spleen"](https://github.com/fcambus/spleen)
-fonts as a template, converting that to easily editable text with 
-[gnarz' excellent psftools](https://codeberg.org/gnarz/psftools)
-and playing with that until it started to look good.
+City99 development began using one of [fcambus' delightful "spleen"](https://github.com/fcambus/spleen)
+fonts as a template, converting that to easily editable text with [gnarz' excellent psftools](https://codeberg.org/gnarz/psftools) and playing with that until it started to look good.
 
 The "psfc" and "psfd" from the psftools package make it very easy
 to get started, and if you're already working in a console this
