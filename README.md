@@ -20,6 +20,9 @@ Broken down, that command means "convert city99.txt to a console font,
 set my current console font to that font, and show me a table of all
 of its glyphs."
 
+You can you can see the output of showconsolefont in "city99.jpg", created
+with Gunnar Monell's very useful ['fbgrab'](https://github.com/GunnerMonell/fbgrab) utility.
+
 On Debian, the default set of console fonts are in /usr/share/consolefonts/.
 If you copy city99.psu into that folder, you can set your console font
 with 
