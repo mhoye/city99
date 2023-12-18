@@ -22,7 +22,6 @@ it easy to see your progress:
 Broken down, that command means "convert city99.txt to a console font, 
 set my current console font to that font, and show me a table of all
 of its glyphs."
-
 On Debian, the default set of console fonts are in /usr/share/consolefonts/.
 If you copy city99.psu into that folder, you can set your console font
 with "setfont city99.psu" at anytime. If you'd like that to be the default 
@@ -38,6 +37,12 @@ by commenting out the FONTFACE and FONTSIZE statements, and adding
     FONT=city99.psu
 
 ... and rebooting.
+
+If kind of thing interests you, an upcoming version of kbd - v2.6-rc1 - 
+will support much larger 64x128 fonts, none of which presently exist.
+There's a lot of green field to play in here, if you enjoy beautiful text
+and believe our tools should be elegant and aesthetically sound even at
+the lowest levels.
 
 City99 is a work in progress - I think it's about 40% done at this point - but 
 I hope you enjoy it.
