@@ -19,11 +19,16 @@ it easy to see your progress:
 Broken down, that command means "convert city99.txt to a console font, 
 set my current console font to that font, and show me a table of all
 of its glyphs."
+
 On Debian, the default set of console fonts are in /usr/share/consolefonts/.
 If you copy city99.psu into that folder, you can set your console font
-with "setfont city99.psu" at anytime. If you'd like that to be the default 
-setting for your user account, you can add "setfont city99.psu" to your .bashrc
-file, or whatever configuration file works for your shell of choice. 
+with 
+
+    setfont city99.psu 
+
+at any time. If you'd like city99 to be the default for your user account
+you can append "setfont city99.psu" to your .bashrc file, or whatever 
+configuration file works in your shell of choice. 
 
 If you'd like to make a new console font the system default, then edit
  
