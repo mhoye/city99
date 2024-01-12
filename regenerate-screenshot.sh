@@ -14,6 +14,10 @@ echo
 echo The $NAME console font created by $AUTHOR. 
 echo Available at $REPO
 echo
+echo $NAME is a work in progress, and decisions still need to be made about the
+echo unused characters on the right. Advice about useful characters to select
+echo is welcomed.
+echo
 echo "He was a quick brown fox, she was a lazy dog, could I make it any more obvious."
 echo
 echo "Output from showconsolefont:"
