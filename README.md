@@ -22,6 +22,12 @@ Broken down, that command means "convert city99.txt to a console font,
 set my current console font to that font, and show me a table of all
 of its glyphs."
 
+As part of the creation process I've also created a small 'ps-graft.py'
+script that facilitates the integration of iconography from other console
+fonts by renumbering psfd outputs in a way that makes it easy to graft
+them together. This is mainly useful for filling out console fonts with
+characters borrowed from other fonts.
+
 You can you can see the output of showconsolefont in "city99.jpg", 
 created with Gunnar Monell's very useful ['fbgrab'](https://github.com/GunnerMonell/fbgrab) utility.
 
