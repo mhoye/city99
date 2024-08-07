@@ -1,6 +1,6 @@
 # City99 
 
-![a screenshot, an example and demonstration of City99](City99.png)
+![a screenshot, an example and demonstration of City99](city99.png)
 
 ## A Linux console font by mhoye
 
