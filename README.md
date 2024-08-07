@@ -1,5 +1,7 @@
 # City99 
 
+![a screenshot, an example and demonstration of City99](City99.png)
+
 ## A Linux console font by mhoye
 
 [City99](https://github.com/mhoye/city99) is a console font for Linux 
